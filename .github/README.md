@@ -25,6 +25,9 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 <a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/rahularkv/YukkiMusicBot/tree/master&branch=master&name=yukkimusic1)
+
+
 ## 🖇 VPS Deployment
 
 Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
